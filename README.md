@@ -1,6 +1,4 @@
-# 🍔🍔 Restaurant app UI KIT [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-Flutter representation of a full Restaurant app UI KIT.
+Flutter representation of a ChotaCart app UI .
 
 Star⭐ the repo if you like what you see😉.
 
